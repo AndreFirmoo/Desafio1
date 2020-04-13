@@ -2,17 +2,17 @@
 
 Primeiramente obrigado por estar aqui! E querer trabalhar no Itaú Unibanco! 
 
-Esse é nosso 1 de 3 onde iremos avaliar sua lógica de programação e conhecimentos em Javascript.  
+Esse é nosso 1 de 3 onde iremos avaliar sua lógica de programação e conhecimentos em Java.  
 O método de avaliação é simples, tendo seu código em mãos iremos validar se você construiu o projeto atendendo ao cenário proposto e os requisitos.
 
 Boa sorte!
 
 ### Cenário Proposto
 
-_Neste projeto uma classe que possui uma lista de lançamentos de cartão de crédito de um cliente, de forma desorganizada._
-_Precisamos escrever no console os gastos ordenados por meses_
-_Escrever todos os lancamentos de uma mesma categoria de sua escolha._
-_Mostrar o total da fatura de um mes em específico de sua escolha_
+* Neste projeto uma classe que possui uma lista de lançamentos de cartão de crédito de um cliente, de forma desorganizada.
+* Precisamos escrever no console os gastos ordenados por meses.
+* Escrever todos os lancamentos de uma mesma categoria de sua escolha.
+* Mostrar o total da fatura de um mes em específico de sua escolha.
 
 ### Requisitos
 
